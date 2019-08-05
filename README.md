@@ -1,11 +1,6 @@
 ## Usage of AMN SRL
 
-This is the code for paper [semantic role labeling with associated memory network].
-
-Todo list:
-- Add explanation of hyper-parameters
-- Add the best models we've found
-- Add links to paper and citations
+This is the code for paper [semantic role labeling with associated memory network](https://www.aclweb.org/anthology/N19-1340).
 
 ### Brief description
 
@@ -83,3 +78,17 @@ to train the model.
 
 After some time, you will get something like below:
 ![snipshot](./snipping/Capture.PNG)
+
+### Step.4 Cite our paper
+
+If you want to cite our paper, you can cite as following:
+```
+@inproceedings{guan2019AMN_SRL,
+    title = {Semantic Role Labeling with Associated Memory Network},
+    author = {Guan, Chaoyu and Cheng, Yuhao and Zhao, Hai},
+    booktitle = {Proceedings of the 2019 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies (NAACL-HLT)},
+    volume = {1},
+    pages = "{3361--3371},
+    year = {2019}
+}
+```
